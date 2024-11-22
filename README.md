@@ -3,5 +3,7 @@ Esta aplicación permite analizar el impacto del cambio climático en la agricul
 
 ## Características
 • Predicción del impacto económico basado en el rendimiento de cultivos.
+
 • Clasificación de estrategias de adaptación en función de la salud del suelo.
+
 • Identificación de cultivos predominantes según el clima.
